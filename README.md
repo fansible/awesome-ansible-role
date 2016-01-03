@@ -15,6 +15,7 @@ For roles more specific to a Symfony or a Node.Js project, see our [generator of
 * [Node.Js](https://github.com/Stouts/Stouts.nodejs)
 * [Apt](https://github.com/kosssi/ansible-role-apt)
 * [Redis](https://github.com/Stouts/Stouts.redis)
+* [Supervisor](https://github.com/fansible/ansible-role-supervisor)
 
 ##Databases
 
