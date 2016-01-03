@@ -1,6 +1,6 @@
 # Awesome Ansible roles
 
-We provide here a list of Ansible roles we use in our projects.
+We provide here a list of Ansible roles we use in our projects. A lot of them are only designed to work with **Ubuntu** in order to keep them really *simple*.
 
 Pro tips:
 
