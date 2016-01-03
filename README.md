@@ -28,3 +28,4 @@ For roles more specific to a Symfony or a Node.Js project, see our [generator of
 
 * [Composer](https://github.com/kosssi/ansible-role-composer)
 * [Xdebug](https://github.com/MaximeThoonsen/ansible-role-php-xdebug)
+* [Blackfire](https://github.com/AbdoulNdiaye/ansible-role-blackfire)
