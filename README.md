@@ -20,7 +20,7 @@ For roles more specific to a Symfony or a Node.Js project, see our [generator of
 ##Databases
 
 * [MongoDB](https://github.com/Stouts/Stouts.mongodb)
-* [MySQL](https://github.com/geerlingguy/ansible-role-mysql)
+* [MySQL](https://github.com/ANXS/mysql)
 * [PostgreSQL](https://github.com/ANXS/postgresql)
 
 
